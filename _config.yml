@@ -8,7 +8,7 @@ description: Online portfolio showcasing art created by Terri Lambert.
 
 #Only use this if you are serving your site via Github Pages
 github:
-  url: "https://terrilambert.github.io/terrilambert.com"
+  url: "https://terrilambert.github.io/terrilambert.github.io"
 
 header: images/logo.jpg
 
@@ -35,8 +35,8 @@ feed:
   path: atom.xml
 
 # Compress our Css
-#sass:
-#    style: :compressed
+sass:
+   style: :compressed
 
 include: ['_pages']
 
