@@ -4,7 +4,7 @@ layout: default
 <div class="masonry">
     <div>  {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
         <div class="masonry-panel">
-            <a href="#{{ art.order }}" data-caption-desc="{{ art.description }}">
+            <a href="#{{ forloop.index }}" data-caption-desc="{{ art.description }}">
                 <img src="{{ site.github.url }}/{{ art.image }}" alt="{{ art.title }}"class="zoom">
             </a>
         </div>{% endfor %} {% endif %} {% endfor %}
@@ -13,14 +13,14 @@ layout: default
 
 {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
 <aside class="small-12 columns">
-    <a href="#x" class="small-12 columns lightbox-overlay" id="{{ art.order }}"></a>
+    <a href="#x" class="small-12 columns lightbox-overlay" id="{{ forloop.index }}"></a>
         <div class="lightbox-popup center-text">
         <div class="small-12 columns lightbox-nav-wrap">
                     <div class="small-4 lightbox-nav">
-                        <a class="lightbox-prev" href="#{{ art.order | minus: 1 }}">&#171;</a>
+                        <a class="lightbox-prev" href="#{{ forloop.index | minus: 1 }}">&#171;</a>
                     </div>
                     <div class="small-4 lightbox-nav">
-                        <a class="lightbox-next" href="#{{ art.order | plus: 1 }}">&#187;</a>
+                        <a class="lightbox-next" href="#{{ forloop.index | plus: 1 }}">&#187;</a>
                     </div>
                     <div class="small-4 lightbox-nav">
                         <a class="lightbox-popup-close" href="#close">&times;</a>
