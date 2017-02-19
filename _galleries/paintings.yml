@@ -1,0 +1,183 @@
+---
+name: "paintings"
+arts:
+# Row 1
+- image: "images/galleries/paintings/Alice.jpg"
+  order: "22"
+  artist: "Terri Lambert"
+  title: "Alice"
+  description: "My Granddaughter, Alice."
+
+- image: "images/galleries/paintings/Kaylie.jpg"
+  order: "23"
+  artist: "Terri Lambert"
+  title: "Kaylie"
+  description: "My Granddaughter, Kaylie."
+
+- image: "images/galleries/paintings/Gaias-Time.jpg"
+  order: "24"
+  artist: "Terri Lambert"
+  title: "Gaia's Time"
+  description: "Acrylic on canvas."
+
+- image: "images/galleries/paintings/Gaias-Time-Detail.jpg"
+  order: "25"
+  artist: "Terri Lambert"
+  title: "Gaia's Time"
+  description: "Detail of Gaia's Time."
+
+- image: "images/galleries/paintings/Raven-Moon.jpg"
+  order: "26"
+  artist: "Terri Lambert"
+  title: "Raven Moon"
+  description: "Acrylic"
+
+- image: "images/galleries/paintings/Raven-Steals-The-Sun.jpg"
+  order: "27"
+  artist: "Terri Lambert"
+  title: "Raven Steals The Sun"
+  description: "Acrylic"
+
+- image: "images/galleries/paintings/Ravens-With-Tinsel.jpg"
+  order: "28"
+  artist: "Terri Lambert"
+  title: "Ravens With Tinsel"
+  description: "Acrylic"
+
+- image: "images/galleries/paintings/Shiney-Things.jpg"
+  order: "29"
+  artist: "Terri Lambert"
+  title: "Shiney Things"
+  description: "Acrylic"
+
+- image: "images/galleries/paintings/The-Journey-Home.jpg"
+  order: "30"
+  artist: "Terri Lambert"
+  title: "The Journey Home"
+  description: "Acrylic"
+
+- image: "images/galleries/paintings/amelie.jpg"
+  order: "1"
+  artist: "Terri Lambert"
+  title: "Amélie"
+  description: "My Granddaughter, Amélie."
+
+- image: "images/galleries/paintings/anza-borrego.jpg"
+  order: "5"
+  artist: "Terri Lambert"
+  title: "Anza Borrego"
+  description: "Anza Borrego mountain sunset."
+
+- image: "images/galleries/paintings/hand-1.jpg"
+  order: "8"
+  artist: "Terri Lambert"
+  title: "Hand 1"
+  description: "Hand 1"
+
+# Row 2
+- image: "images/galleries/paintings/blue-maiden.jpg"
+  order: "2"
+  artist: "Terri Lambert"
+  title: "Blue Maiden"
+  description: "Blue Maiden"
+
+- image: "images/galleries/paintings/corn-maiden.jpg"
+  order: "6"
+  artist: "Terri Lambert"
+  title: "Corn Maiden"
+  description: "Corn Maiden 1"
+
+- image: "images/galleries/paintings/hand-2.jpg"
+  order: "9"
+  artist: "Terri Lambert"
+  title: "Hand 2"
+  description: "Hand 2"
+
+# Row 3
+- image: "images/galleries/paintings/corn-maiden-0.jpg"
+  order: "3"
+  artist: "Terri Lambert"
+  title: "Corn Maiden"
+  description: "Corn Maiden 2"
+
+- image: "images/galleries/paintings/corn-mother.jpg"
+  order: "7"
+  artist: "Terri Lambert"
+  title: "Corn Mother"
+  description: "Corn Mother"
+
+- image: "images/galleries/paintings/hand-3.jpg"
+  order: "10"
+  artist: "Terri Lambert"
+  title: "Hand 3"
+  description: "Hand 3"
+
+# Row 4
+- image: "images/galleries/paintings/divine-mother.jpg"
+  order: "4"
+  artist: "Terri Lambert"
+  title: "Divine Mother"
+  description: "Divine Mother"
+
+- image: "images/galleries/paintings/hand-4.jpg"
+  order: "11"
+  artist: "Terri Lambert"
+  title: "Hand 4"
+  description: "Hand 4"
+
+- image: "images/galleries/paintings/honey-bee.jpg"
+  order: "12"
+  artist: "Terri Lambert"
+  title: "Honeybee"
+  description: "Honeybee on honeycomb."
+
+- image: "images/galleries/paintings/hummingbird.jpg"
+  order: "13"
+  artist: "Terri Lambert"
+  title: "Hummingbird"
+  description: "Feeding hummingbird."
+
+- image: "images/galleries/paintings/kunda.jpg"
+  order: "14"
+  artist: "Terri Lambert"
+  title: "Kunda"
+  description: "Kunda"
+
+- image: "images/galleries/paintings/lotus-hand.jpg"
+  order: "15"
+  artist: "Terri Lambert"
+  title: "Lotus Hand"
+  description: "Lotus Hand"
+
+- image: "images/galleries/paintings/owl-maiden.jpg"
+  order: "16"
+  artist: "Terri Lambert"
+  title: "Owl Maiden"
+  description: "Owl Maiden"
+
+- image: "images/galleries/paintings/snow-ball.jpg"
+  order: "18"
+  artist: "Terri Lambert"
+  title: "Snowball"
+  description: "Snowball the chicken"
+
+- image: "images/galleries/paintings/solitude.jpg"
+  order: "19"
+  artist: "Terri Lambert"
+  title: "Solitude"
+  description: "Solitude"
+
+- image: "images/galleries/paintings/tahoe.jpg"
+  order: "20"
+  artist: "Terri Lambert"
+  title: "Tahoe"
+  description: "Tahoe"
+
+- image: "images/galleries/paintings/the-seat.jpg"
+  order: "21"
+  artist: "Terri Lambert"
+  title: "The Seat"
+  description: "The Seat"
+
+
+---

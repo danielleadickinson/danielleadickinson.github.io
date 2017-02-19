@@ -1,0 +1,73 @@
+---
+name: "beading and crafts"
+arts:
+# Row 1
+- image: "images/galleries/beading-crafts/beaded-fan.jpg"
+  order: "1"
+  artist: "Terri Lambert"
+  title: "Beaded Fan"
+  description: "Beaded Fan"
+
+- image: "images/galleries/beading-crafts/beaded-flask-0.jpg"
+  order: "5"
+  artist: "Terri Lambert"
+  title: "Beaded Flask"
+  description: "Beaded Flask"
+
+- image: "images/galleries/beading-crafts/beaded-flask.jpg"
+  order: "8"
+  artist: "Terri Lambert"
+  title: "Beaded Flask"
+  description: "Beaded Flask"
+
+# Row 2
+- image: "images/galleries/beading-crafts/beaded-freshwater-pearl-necklace.jpg"
+  order: "2"
+  artist: "Terri Lambert"
+  title: "Beaded Freshwater Pearl Necklace"
+  description: "Beaded Freshwater Pearl Necklace"
+
+- image: "images/galleries/beading-crafts/beaded-wing.jpg"
+  order: "6"
+  artist: "Terri Lambert"
+  title: "Beaded Wing"
+  description: "Beaded Wing"
+
+- image: "images/galleries/beading-crafts/pink-ribbon-necklace.jpg"
+  order: "9"
+  artist: "Terri Lambert"
+  title: "Pink Ribbon Necklace"
+  description: "Pink Ribbon Necklace"
+
+# Row 3
+- image: "images/galleries/beading-crafts/small-beaded-bag-0.jpg"
+  order: "3"
+  artist: "Terri Lambert"
+  title: "Small Beaded Bag"
+  description: "Small Beaded Bag"
+
+- image: "images/galleries/beading-crafts/small-beaded-bag.jpg"
+  order: "7"
+  artist: "Terri Lambert"
+  title: "Small Beaded Bag"
+  description: "Small Beaded Bag"
+
+- image: "images/galleries/beading-crafts/wood-burned-boots.jpg"
+  order: "10"
+  artist: "Terri Lambert"
+  title: "Wood Burned Boots"
+  description: "Wood Burned Boots"
+
+# Row 4
+- image: "images/galleries/beading-crafts/wood-burned-purse.jpg"
+  order: "4"
+  artist: "Terri Lambert"
+  title: "Wood Burned Purse"
+  description: "Wood Burned Purse"
+
+- image: "images/galleries/beading-crafts/vintaj-turquoise-necklace.jpg"
+  order: "11"
+  artist: "Terri Lambert"
+  title: "Vintaj Turquoise Necklace"
+  description: "Vintaj Turquoise Necklace"
+---

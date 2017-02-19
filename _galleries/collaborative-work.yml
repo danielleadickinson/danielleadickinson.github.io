@@ -1,0 +1,67 @@
+---
+name: "collaborative work"
+arts:
+# Row 1
+- image: "images/galleries/collaborative/ardhasivara.jpg"
+  order: "1"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Ardhasivara"
+  description: "Ardhasivara"
+
+- image: "images/galleries/collaborative/divine-union.jpg"
+  order: "5"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Divine Union"
+  description: "Divine Union"
+
+- image: "images/galleries/collaborative/epiphany.jpg"
+  order: "8"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Epiphany"
+  description: "Epiphany"
+
+# Row 2
+- image: "images/galleries/collaborative/inner-passage.jpg"
+  order: "2"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Inner Passage"
+  description: "Inner Passage"
+
+- image: "images/galleries/collaborative/mirror-mosaic.jpg"
+  order: "6"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Mirror Mosaic"
+  description: "Mirror Mosaic"
+
+- image: "images/galleries/collaborative/my-loneliness-belongs-to-her.jpg"
+  order: "9"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "My Loneliness Belongs to Her"
+  description: "My Loneliness Belongs to Her"
+
+# Row 3
+- image: "images/galleries/collaborative/searching-for-connections.jpg"
+  order: "3"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Searching for Connections"
+  description: "Searching for Connections"
+
+- image: "images/galleries/collaborative/snake-ring-of-eternity.jpg"
+  order: "7"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Snake Ring of Eternity"
+  description: "Snake Ring of Eternity"
+
+- image: "images/galleries/collaborative/the-way-of-balancing-union.jpg"
+  order: "10"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "The Way of Balancing Union"
+  description: "The Way of Balancing Union"
+
+# Row 4
+- image: "images/galleries/collaborative/tree-frog.jpg"
+  order: "4"
+  artist: "Terri Lambert and Reese Sutfin"
+  title: "Tree Frog"
+  description: "Tree Frog"
+---

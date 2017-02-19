@@ -1,20 +1,14 @@
 - title: "feed"
-  href: "https://chrisanthropic.github.io/starving-artist-jekyll-theme/atom.xml"
+  href: "/atom.xml"
 
 - title: "googleplus"
-  href: "#"
+  href: "https://plus.google.com/u/0/117513795801303704216"
 
 - title: "facebook"
-  href: "#"
-  
-- title: "tumblr"
-  href: "#"
-  
-- title: "twitter"
-  href: "https://twitter.com/@chrisanthropic"
+  href: "https://www.facebook.com/stella.bluesky"
 
 - title: "github"
-  href: "https://github.com/chrisanthropic/starving-artist-jekyll-theme"
+  href: "https://github.com/terrilambert"
 
-- title: "linkedin"
-  href: "https://www.linkedin.com/in/ctarwater"
+- title: "pinterest"
+  href: "https://www.pinterest.com/peyotebird/"

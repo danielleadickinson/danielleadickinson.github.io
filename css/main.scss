@@ -1,3 +1,69 @@
 ---
 ---
 @import "starving-artist";
+
+// #header {
+//   background-color: #111;
+// }
+body {
+  background-color: #111
+}
+#welcome {
+  max-width: 600px;
+}
+#feature{
+height:220px;
+margin:60px 0 20px;
+width:90%;
+}
+#feature img{
+height:180px;
+margin:0;
+opacity:0.8;
+padding:0;
+width:180px;
+}
+#feature .catagory{
+float:left;
+height:220px;
+margin:10px;
+padding:0;
+position:relative;
+text-decoration:none;
+width:180px;
+}
+// @media (min-width: 600px) {
+//   #feature .catagory{
+//     float:left;
+//   }
+// }
+#feature .catagory h3{
+background-color:#008599;
+bottom:0;
+color:#FFF;
+display:none;
+font-family:'Papyrus', 'Comic Sans MS', cursive, sans-serif;
+font-weight:200;
+margin:0;
+padding:5px 0 0;
+text-align:center;
+}
+#feature .catagory:hover h3{
+display:block;
+}
+#feature .catagory:hover img{
+opacity:1;
+}
+textarea {
+  color:#000;
+}
+
+code {
+  background-color: #222;
+}
+input {
+  color: #000;
+}
+[type='text'], [type='email'], textarea {
+  color: #000;
+}
