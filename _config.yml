@@ -10,6 +10,9 @@ description: Online portfolio showcasing art created by Terri Lambert.
 github:
   url: "https://terrilambert.github.io/terrilambert.github.io"
 
+assets:
+  cache: false
+
 header: images/logo.jpg
 
 # Formspree contact Form
