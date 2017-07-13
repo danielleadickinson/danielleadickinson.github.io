@@ -2,6 +2,22 @@
 name: "paintings"
 arts:
 # Row 1
+
+- image: "images/galleries/paintings/reflection.jpg"
+  artist: "Terri Lambert"
+  title: "Reflection"
+  description: "acyrlic 8\" x 10 \""
+
+- image: "images/galleries/paintings/starlit-raven.jpg"
+  artist: "Terri Lambert"
+  title: "Starlit Raven"
+  description: "acyrlic 8\" x 10\""
+
+- image: "images/galleries/paintings/testing-the-waters.jpg"
+  artist: "Terri Lambert"
+  title: "Testting the Waters"
+  description: "acrylic 8\" x 8\""
+
 - image: "images/galleries/paintings/Alice.jpg"
   order: "22"
   artist: "Terri Lambert"
@@ -179,5 +195,9 @@ arts:
   title: "The Seat"
   description: "The Seat"
 
+- image: "images/galleries/paintings/.jpg"
+  artist: "Terri Lambert"
+  title: ""
+  description: ""
 
 ---
