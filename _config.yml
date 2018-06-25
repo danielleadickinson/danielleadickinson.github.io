@@ -20,7 +20,7 @@ contact_form: "https://formspree.io/love4arts@gmail.com"
 
 
 # Exclude our ruby stuff
-exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem, sitemap.xml]
+exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem, sitemap.xml]
 
 
 # Build settings
@@ -31,7 +31,7 @@ kramdown:
 # theme: starving-artist-jekyll-theme
 
 # Plugins
-gems:
+plugins:
   - jekyll-feed
 
 feed:

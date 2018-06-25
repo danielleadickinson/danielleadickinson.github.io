@@ -3,10 +3,8 @@ _site
 .sass-cache
 .asset-cache
 .jekyll-metadata
-
 .bin
 .vendor
 bin
-vendor/ruby
 Gemfile.lock
 Work Files
