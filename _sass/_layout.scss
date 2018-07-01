@@ -11,7 +11,7 @@
   }
 
 .wraptainer {
-   margin-top: $header-margin;   
+   margin-top: $header-margin;
 }
 
 // Header
@@ -30,7 +30,7 @@ ul > .header-nav > a {
 }
 
 ul > .header-nav > a:hover {
-    color: $header-link-hover-color 
+    color: $header-link-hover-color
 }
 
 ul > .header-nav > a:visited {
@@ -94,7 +94,7 @@ ul > .header-nav > a:visited {
 }
 
 .sidebar ul li {
-    padding: 0 0 1rem 0;   
+    padding: 0 0 1rem 0;
 }
 
 
@@ -126,7 +126,7 @@ ul > .header-nav > a:visited {
 
 .post-meta {
     font-size: $small-font-size;
-    color: darken($complimentary-color, 35%);
+    color: #fff;
     margin-bottom: -1rem;
 }
 
