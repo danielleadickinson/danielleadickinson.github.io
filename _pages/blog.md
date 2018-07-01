@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Ramblings of a Beating Heart
+title: blog
 permalink: "/blog/"
 sidebar: "recent_posts"
 ---
