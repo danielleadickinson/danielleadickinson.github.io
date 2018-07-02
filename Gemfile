@@ -13,7 +13,7 @@ ruby RUBY_VERSION
 
 # Starving artist jekyll theme
 #gemspec
-# gem 'jekyll'                    #Needed since this is a theme for Jekyll
+gem 'jekyll'                    #Needed since this is a theme for Jekyll
 # gem 'jekyll-feed'
 gem 'rake'                      #Used to simplify building/deploying tasks
 gem 's3_website'                #Used to deploy site to AWS S3
@@ -26,7 +26,7 @@ gem 'starving-artist-jekyll-theme'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -35,4 +35,4 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "Power Of The Little Things"
-
 keywords: Power, little, poetry, things,
 description: Poem about the power of the little things.
 thumbnail: images/posts/thumbs/rose.jpg
-
-facebook_type:
-facebook_image: images/posts/rose.jpg
-
+image: images/posts/rose.jpg
 ---
 Power Of The Little Things:
 

@@ -19,7 +19,6 @@ width:90%;
 #feature img{
 height:180px;
 margin:0;
-opacity:0.8;
 padding:0;
 width:180px;
 }
@@ -50,9 +49,15 @@ text-align:center;
 }
 #feature .catagory:hover h3{
 display:block;
-}
-#feature .catagory:hover img{
-opacity:1;
+-moz-transform: scale(1.05);
+-webkit-transform: scale(1.05);
+transform: scale(1.05);
+transition: all 0.2s linear;
+-webkit-transition: all 0.2s linear;
+-moz-transition: all 0.2s linear;
+-o-transition: all 0.2s linear;
+overflow: auto;
+
 }
 textarea {
   color:#000;

@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "The Between Spaces"
-
 keywords: in-between, liminal, poetry, spaces,
 description: Poem about contemplating the 'in-between' spaces.
 thumbnail: images/posts/thumbs/juniper-tree.jpg
-
-facebook_type:
-facebook_image: images/posts/juniper-tree.jpg
-
+image: images/posts/juniper-tree.jpg
 ---
 Lying back in the cool welcome shade
 
