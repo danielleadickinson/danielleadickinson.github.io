@@ -8,7 +8,7 @@ description: Online portfolio showcasing art created by Terri Lambert.
 
 #Only use this if you are serving your site via Github Pages
 github:
-  url: "https://terrilambert.github.io/terrilambert.github.io"
+  url: "https://danielleadickinson.github.io/danielleadickinson.github.io"
 
 assets:
   cache: false
